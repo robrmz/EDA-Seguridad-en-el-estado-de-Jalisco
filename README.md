@@ -32,7 +32,7 @@ Los delitos más frecuentes incluyeron robo a vehículos particulares, robo a pe
 ## Conclusiones:
 El análisis exploratorio reveló las tendencias delictivas principales en el Estado, proporcionando una base para futuras propuestas de soluciones. Se sugiere un análisis adicional que normalice los diferentes tipos de delitos por municipio, considerando la población local, para evaluar las tasas de delincuencia. Esto permitiría a los responsables políticos implementar estrategias específicas en áreas problemáticas. Además, se planea desarrollar un modelo predictivo de delitos a largo plazo para mejorar la efectividad de la vigilancia y prevenir ciertos tipos de delitos.
 
-Link al EDA: [EDA Seguridad en el estado de Jalisco - Jupyter Notebook](/src/Proyecto%de%Análisis%Exploratorio%de%Datos%(EDA)%sobre%la%Seguridad%en%el%estado%de%Jalisco.ipynb)
+Link al EDA: [EDA Seguridad en el estado de Jalisco - Jupyter Notebook](https://github.com/robrmz/EDA-Seguridad-en-el-estado-de-Jalisco/blob/main/src/Proyecto%20de%20An%C3%A1lisis%20Exploratorio%20de%20Datos%20(EDA)%20sobre%20la%20Seguridad%20en%20el%20estado%20de%20Jalisco.ipynb)
 
 
 ## Estructura de repositorio
