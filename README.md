@@ -55,4 +55,11 @@ Link al EDA: [EDA Seguridad en el estado de Jalisco - Jupyter Notebook](https://
     └── src               <- Archivos de código.
 
 
+# Referencias
 
+- INSTITUTO DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DE JALISCO. Plataforma de Seguridad. https://iieg.gob.mx/plataforma_seguridad/#/home
+
+
+# Difusión en RRSS
+
+![Shared on twitter](/results/share.png)
