@@ -1,1 +1,1 @@
-Esta es una carpeta donde se subirán archivos de texto. 
+Carpeta con bases de datos originales.
