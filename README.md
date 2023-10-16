@@ -15,24 +15,24 @@ Las bases de datos fueron procesadas para abordar los valores NA según los requ
 
 Al utilizar un mapa de calor, se evidenció una concentración significativa de delitos en la zona metropolitana de Guadalajara (AMG) durante el período 2017-2023. 
 
-![Heatmap incidencia delictiva en el Estado de Jalisco](main/results/heatmap.png)
+![Heatmap incidencia delictiva en el Estado de Jalisco](/results/heatmap.png)
 
 Esto se corroboró mediante una gráfica adicional que detalla los delitos reportados en los municipios de Jalisco. Esta concentración era previsible debido a la densidad poblacional del AMG.
 
-![Delitos reportados en el Estado de Jalisco por Municipio](main/results/delitos_reportados_municipio.png)
+![Delitos reportados en el Estado de Jalisco por Municipio](/results/delitos_reportados_municipio.png)
 
 Los delitos más frecuentes incluyeron robo a vehículos particulares, robo a personas, violencia familiar, robo a negocios y lesiones dolosas.
 
-![Delitos más frecuentes en el Estado de Jalisco](main/results/delitos_totales.png)
+![Delitos más frecuentes en el Estado de Jalisco](/results/delitos_totales.png)
 
  La mayoría de las categorías delictivas mostraron una disminución a lo largo del tiempo, excepto por casos como violencia familiar, abuso sexual infantil, violación y feminicidio. Este último mostró una tendencia constante, aunque con un corte en septiembre de 2023, la diferencia podría ser mayor.
 
-![Tendencia de delitos en el Estado de Jalisco (2017 - 2023)](main/results/Tendencia_por_delito.png)
+![Tendencia de delitos en el Estado de Jalisco (2017 - 2023)](/results/Tendencia_por_delito.png)
 
 ## Conclusiones:
 El análisis exploratorio reveló las tendencias delictivas principales en el Estado, proporcionando una base para futuras propuestas de soluciones. Se sugiere un análisis adicional que normalice los diferentes tipos de delitos por municipio, considerando la población local, para evaluar las tasas de delincuencia. Esto permitiría a los responsables políticos implementar estrategias específicas en áreas problemáticas. Además, se planea desarrollar un modelo predictivo de delitos a largo plazo para mejorar la efectividad de la vigilancia y prevenir ciertos tipos de delitos.
 
-Link al EDA: [EDA Seguridad en el estado de Jalisco - Jupyter Notebook](main/src/Proyecto%de%Análisis%Exploratorio%de%Datos%(EDA)%sobre%la%Seguridad%en%el%estado%de%Jalisco.ipynb)
+Link al EDA: [EDA Seguridad en el estado de Jalisco - Jupyter Notebook](/src/Proyecto%de%Análisis%Exploratorio%de%Datos%(EDA)%sobre%la%Seguridad%en%el%estado%de%Jalisco.ipynb)
 
 
 ## Estructura de repositorio
