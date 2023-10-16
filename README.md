@@ -34,6 +34,7 @@ El análisis exploratorio reveló las tendencias delictivas principales en el Es
 
 Link al EDA: [EDA Seguridad en el estado de Jalisco - Jupyter Notebook](https://github.com/robrmz/EDA-Seguridad-en-el-estado-de-Jalisco/blob/main/src/Proyecto%20de%20An%C3%A1lisis%20Exploratorio%20de%20Datos%20(EDA)%20sobre%20la%20Seguridad%20en%20el%20estado%20de%20Jalisco.ipynb)
 
+[**Ruta alternativa para mostrar el mapa interactivo**](https://nbviewer.org/github/robrmz/EDA-Seguridad-en-el-estado-de-Jalisco/blob/main/src/Proyecto%20de%20An%C3%A1lisis%20Exploratorio%20de%20Datos%20%28EDA%29%20sobre%20la%20Seguridad%20en%20el%20estado%20de%20Jalisco.ipynb)
 
 ## Estructura de repositorio
 
